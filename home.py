@@ -333,7 +333,7 @@ with tab1:
        )
    with col4:
        st.markdown(
-           f'<div class="img-container"><img src="https://i.ibb.co/Y2pYRk0/ \
+           f'<div class="img-container"><img src="https://i.ibb.co/Y2pYRk0/Orginial.png"\
            style="width:100%; height:100%; \
                                object-fit:cover;"></div>',
            unsafe_allow_html=True
