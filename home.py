@@ -319,8 +319,8 @@ with tab1:
        )
    with col2:
        st.markdown(
-           f'<div class="img-container"><img src="https://i.ibb.co/nQ64cxM/IMG\
-           -0225-2.png" style="width:100%; height:100%; \
+           f'<div class="img-container"><img src="https://i.ibb.co/QHdF6Hv/4.png" \
+           style="width:100%; height:100%; \
                  object-fit:cover;"></div>',
            unsafe_allow_html=True
        )
