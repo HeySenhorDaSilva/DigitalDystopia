@@ -312,7 +312,7 @@ with tab1:
    col1, col2, col3, col4 = st.columns(4)
    with col1:
        st.markdown(
-           f'<div class="img-container"><img src="https://i.ibb.co/Y2pYRk0/\
+           f'<div class="img-container"><img src="https://i.ibb.co/5v2zXzV/3.png"\
            Orginial.png" style="width:100%; height:100%; \
            object-fit:cover;"></div>',
            unsafe_allow_html=True
@@ -333,7 +333,7 @@ with tab1:
        )
    with col4:
        st.markdown(
-           f'<div class="img-container"><img src="https://i.ibb.co/5v2zXzV/3.png" \
+           f'<div class="img-container"><img src="https://i.ibb.co/Y2pYRk0/ \
            style="width:100%; height:100%; \
                                object-fit:cover;"></div>',
            unsafe_allow_html=True
