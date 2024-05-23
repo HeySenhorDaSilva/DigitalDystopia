@@ -326,17 +326,15 @@ with tab1:
        )
    with col3:
        st.markdown(
-           f'<div class="img-container"><img src="https://i.ibb.co/mbSGZ0Q/716\
-           -CFCE6-BD73-4-E76-BCCC-27-F0-\
-       FC018424.jpg" style="width:100%; height:100%; \
+           f'<div class="img-container"><img src="https://i.ibb.co/wQXDq0R/5.png" \
+           style="width:100%; height:100%; \
                         object-fit:cover;"></div>',
            unsafe_allow_html=True
        )
    with col4:
        st.markdown(
-           f'<div class="img-container"><img src="https://i.ibb.co/wp2rnHj/ef9\
-           0c5d9-6bec-44a6-89b4-\
-       ce1aa908e9d2-3.jpg" style="width:100%; height:100%; \
+           f'<div class="img-container"><img src="https://i.ibb.co/5v2zXzV/3.png" \
+           style="width:100%; height:100%; \
                                object-fit:cover;"></div>',
            unsafe_allow_html=True
        )
