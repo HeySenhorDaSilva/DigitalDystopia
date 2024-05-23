@@ -308,7 +308,7 @@ tab1, tab2 = st.tabs(["Photos", "Videos"])
 
 with tab1:
    st.subheader("More Episodes")
-   st.markdown("Made in :flag-br:")
+   st.markdown("Made in :flag-de:")
    col1, col2, col3, col4 = st.columns(4)
    with col1:
        st.markdown(
